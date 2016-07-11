@@ -9,7 +9,8 @@ public class ModelDuck extends Duck {
      * Instantiates a new Model duck.
      */
     public ModelDuck() {
-
+        flyBehavior = new FlyWithWings();
+        quackBehavior = new Quack();
     }
 
     /**

@@ -14,5 +14,11 @@ public class Main {
         duck.display();
         duck.fly();
         duck.quack();
+
+        duck.setFlyBehavior(new FlyNoWay());
+        duck.setQuackBehavior(new Squeak());
+
+        duck.fly();
+        duck.quack();
     }
 }
