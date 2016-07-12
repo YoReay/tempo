@@ -24,7 +24,7 @@
 ## 观察者模式
 > 定义了对象之间的一对多依赖，这样一来，当一个对象改变状态时，它的所有依赖者都会收到通知并自动更新。
 
-![观察者模式](https://yoreay.github.io/tempo/img/observer.png)
+![观察者模式类图](https://yoreay.github.io/tempo/img/observer.png)
 
 > java内置的观察者模式
 
@@ -39,6 +39,8 @@ Observable黑暗面：
 
 ## 装饰者模式
 > 动态地将责任附加到对象上。若要扩展功能，装饰者提供了比继承更有弹性的替代方案。
+
+![装饰者模式类图](https://yoreay.github.io/tempo/img/decorator.png)
 
 装饰者模式黑暗面：
 
