@@ -1,4 +1,4 @@
-package com.yoreay.design.patterns;
+package com.yoreay.design.patterns.singleton;
 
 /**
  * Created by sanze on 2016/7/14.
