@@ -181,7 +181,7 @@ Observable黑暗面：
 这个模式是用来创建一个算法的模板。模板就是一个方法，这个方法将算法定义成一组步骤，其中的任何步骤都可以是抽象的，由子类负责实现。
 这可以确保算法的结构保持不变，同时子类提供部分实现。
 
-![模板方法模式类图](https://yoreay.github.io/tempo/img/templateMothod.png)
+![模板方法模式类图](https://yoreay.github.io/tempo/img/templateMethod.png)
 
 要点：
 
